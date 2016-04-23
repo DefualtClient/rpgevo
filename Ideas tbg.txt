@@ -86,4 +86,4 @@ The monkey thing lunges at you. You ready your axe. Which direction will you swi
 2:
 The monkey rips your face off.
 1:
-The monkey had aimed for your face, but hit the axe instead.***MOVE ON***
+The monkey had aimed for your face, but hit the axe instead.***MOVE ONl***o
